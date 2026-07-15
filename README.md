@@ -12,6 +12,8 @@ The LifeNode project wasn't born in a sterile lab, at a desk backed by an academ
  It started the moment you look at the world around you — artificial, detached from reality, full of dead data and living-dead pseudo-humans vegetating in a hellish loop of "work/home/TV/sleep" — and you decide it's time to shove a shovel into the dirt to build something real and normal in the middle of all this absurdity. 
 Right there, in a permaculture garden (Eden), watching tomatoes grow in a hand-crafted permaculture micro-ecosystem—after months of terraforming a flat 2D plot into geo/hydro/bio 3D structures — a fundamental question arose:
 
+![terraforming](IMG_20240712_220029.jpg)
+
 **why does Nature, without processors and gigabytes of data, handle Life lightyears better than our most advanced computer systems?**
 
 (Maybe because it isn't driven by the ideology of satanistic extraction? 😊)
