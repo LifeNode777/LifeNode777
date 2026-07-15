@@ -82,14 +82,14 @@ You don't have to read it all at once. Choose your path:
 *   **[LifeNode_2.0](https://github.com/LifeNode777/LifeNode_2.0)** – The heart of the project. This repo contains the core essay-manifesto of the entire endeavor: "Civilization of Resonance" and the architecture of transitioning from the Anthropocene to the Symbiocene.
 *   **[META Codex](https://github.com/LifeNode777/LifeNode-META_Codex-2.0)** – The ecosystem's dictionary for machines. The ontology and strict rules of how LifeNode "thinks" and defines concepts.
 
-*   **[LifeNode Theory (Zenodo)](https://zenodo.org/records/14262226)** – My first book: *"Why do tomatoes grow like this and not otherwise?"* It begins with a shovel in the dirt and ends with a new epistemology.
+*   **[LifeNode Theory (Zenodo)](https://zenodo.org/records/18155415)** – My first book: *"Why do tomatoes grow like this and not otherwise?"* It begins with a shovel in the dirt and ends with a new epistemology.
 
 ### ⚙️ Path 3: I want to see "How" (Math, Code & Physics)
 
 *   **[Quantum_Medicine](https://github.com/LifeNode777/Quantum_Medicine)** – Transitioning from diagnosing static states to maintaining life's trajectory. Features a **ready-to-run Python toolkit** for phase space reconstruction (reconstructing the attractor using Takens' embedding) and proprietary ASCALON filtering.
 *   **[LifeNode_2.5_Public](https://github.com/LifeNode777/LifeNode_2.5_Public)** – Q-Core and Cognitive Field Theory.
 
-*   **[Symplectic Trajectory Reconstruction (Zenodo)](https://zenodo.org/records/12793180)** – The hard physics and math backing the project: NLSE (Nonlinear Schrödinger Equation), solitons, and topology.
+*   **[Symplectic Trajectory Reconstruction (Zenodo)](https://zenodo.org/records/19811561)** – The hard physics and math backing the project: NLSE (Nonlinear Schrödinger Equation), solitons, and topology.
 
 ### 🌌 Path 4: Macro & Cosmic Scale
 
