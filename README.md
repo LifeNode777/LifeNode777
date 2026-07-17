@@ -1,5 +1,7 @@
 # 🌱 LifeNode
 
+![Symbiocene ☀️](Symbiocene.png)
+
 > *"Reality is not a photograph. It’s a movie. Stop measuring states, start listening to phases."*
 
 ---
@@ -37,6 +39,8 @@ A 21st-century paradise :)
 
 ## 🛠️ Who I Am and How I Work
 
+![Phase Shift 👁️](phase_shift.png)
+
 * I've been working as a roofer for 15 years. That’s where I get my respect for gravity, the laws of physics, and raw, tangible reality — there is no room for pretending on a roof; if you fuck something up, you go and fix it, instead of writing some bullshit pseudo-report to another pawn up the corporate hierarchy.
 *   **Independent Science:** I am an independent researcher operating entirely outside the academic establishment. I build science and the skeleton of future technologies on my own terms, free from censorship, politics, and bureaucracy.
 *   **Mobile-Only Creator:** The entirety of my work—from designing the LifeNode architecture, writing hard code, sketching prototype blueprints (which probably won't be built for decades to come 😆), to illustrating and layouting the comic book that serves as the narrative layer for the ideas behind the project — is created 100% on a mobile phone screen. No desk, directly from the palm of my hand.
@@ -58,6 +62,8 @@ The system looks at the world through two "eyes" simultaneously:
 1.  **SAMI** (Biological Eye): Senses rhythm, pulse, tension, and changes before the logical mind can even name them.
 2.  **LOGOS** (Logical Eye): Analyzes structure, hunts for repeatable patterns, and arranges fluid motion into a coherent story.
 Between them stands the **Hybrid Core**—the heart of the system, ensuring it neither loses its mind to sensory overload (SAMI) nor calcifies in dead rules (LOGOS).
+
+![HYBRID CORE 🧿](HYBRID_CORE_7.png)
 
 ---
 
