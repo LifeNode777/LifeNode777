@@ -13,6 +13,10 @@
   "origin": "LifeNode Theory"
 }
 
+
+---
+
+
 # 🌱 LifeNode
 
 ![Symbiocene ☀️](Symbiocene.png)
