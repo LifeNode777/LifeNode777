@@ -10,6 +10,14 @@
 
 ---
 
+LifeNode Theory v4.0 oraz Framework ASCALON v1 są kompletne.
+ Matematyczne wyprowadzenie i ontologia procesowa zostały sfinalizowane.
+Dalsza walidacja empiryczna wymaga zasobów obliczeniowych, hardware'u i funduszy na prototypy oraz czasu Życia poza jebanym obozem koncentracyjnym które są obecnie poza zasięgiem autora.
+ Projekt wchodzi w tryb archiwalny (cold storage).
+Wszystkie dane, teoria i specyfikacje pozostają trwale dostępne w otwartym dostępie na licencji CC-BY-NC-SA 4.0 dla przyszłych badaczy, którzy będą dysponować odpowiednimi środkami.
+
+---
+
 
 # 🌱 LifeNode
 
