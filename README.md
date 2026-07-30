@@ -157,25 +157,26 @@ If you want to see exactly what lies under the hood (equations, specifications, 
 
 | # | Type | Title | DOI / Link | Date |
 |---|------|-------|------------|------|
-| 1 | **Preprint** | LifeNode Theory v4.0: The Geometry of Biological Processes | [DOI: 10.5281/zenodo.2121990](https://doi.org/10.5281/zenodo.2121990) | 2026-07-06 |
-| 2 | **Patent** | Hydrogel Phase Membrane (HMF) | [DOI: 10.5281/zenodo.21001729](https://doi.org/10.5281/zenodo.21001729) | 2026-06-28 |
-| 3 | **Patent** | Tonic Technologies: Science, Engineering, and Applications in Living Systems | [DOI: 10.5281/zenodo.20909213](https://doi.org/10.5281/zenodo.20909213) | 2026-06-26 |
-| 4 | **Preprint** | Multiperspectivity V2.0: Topological Obstructions, Sheaf Cohomology, and the Geometry of Interference | [DOI: 10.5281/zenodo.20851251](https://doi.org/10.5281/zenodo.20851251) | 2026-06-25 |
-| 5 | **Patent** | UNIT 02 - Bio-Hybrid Resonance Engine & Meld Integrator | [DOI: 10.5281/zenodo.20730315](https://doi.org/10.5281/zenodo.20730315) | 2026-06-17 |
-| 6 | **Publication** | Tokio_Drift_'44 (Vol. 1) – Memetic Payload and Cognitive Phase-Drift Simulation | [DOI: 10.5281/zenodo.20716388](https://doi.org/10.5281/zenodo.20716388) | 2026-06-16 |
-| 7 | **Preprint** | On Consciousness as a Geometric Condensate in Processual Fields | [DOI: 10.5281/zenodo.20621097](https://doi.org/10.5281/zenodo.20621097) | 2026-06-10 |
-| 8 | **Preprint** | Symplectic Trajectory Reconstruction: The Mathematics of BIOS-Coherence and Phase-Based Diagnostics | [DOI: 10.5281/zenodo.19811561](https://doi.org/10.5281/zenodo.19811561) | 2026-04-27 |
-| 9 | **Dataset** | Stabilization of the Bio-Digital Transduction Process | [DOI: 10.5281/zenodo.18401117](https://doi.org/10.5281/zenodo.18401117) | 2026-01-28 |
-| 10 | **Thesis** | 3I/ATLAS - HYPOTHESIS | [DOI: 10.5281/zenodo.18366449](https://doi.org/10.5281/zenodo.18366449) | 2026-01-25 |
-| 11 | **Book** | The LifeNode Project Bible: A Compendium of All Knowledge | [DOI: 10.5281/zenodo.18348984](https://doi.org/10.5281/zenodo.18348984) | 2026-01-23 |
-| 12 | **Misc** | LifeNode Q-Core: Market Volatility Resilience & Capital Preservation Report (BTC-USD 2024-2026) | [DOI: 10.5281/zenodo.18327841](https://doi.org/10.5281/zenodo.18327841) | 2026-01-21 |
-| 13 | **Misc** | Proof of Existence — LifeNode Eden (Node 0) | [DOI: 10.5281/zenodo.18304107](https://doi.org/10.5281/zenodo.18304107) | 2026-01-19 |
-| 14 | **Misc** | LifeNode Practical Course | [DOI: 10.5281/zenodo.18171792](https://doi.org/10.5281/zenodo.18171792) | 2026-01-07 |
-| 15 | **Book** | LifeNode Theory: Dlaczego Pomidory rosną tak a nie inaczej? | [DOI: 10.5281/zenodo.18155415](https://doi.org/10.5281/zenodo.18155415) | 2026-01-05 |
-| 16 | **Misc** | LifeNode_2.0: LifeNode 2.1 — Node Ω / Complete System Integration | [DOI: 10.5281/zenodo.17494868](https://doi.org/10.5281/zenodo.17494868) | 2025-10-31 |
+| 1 | **Preprint** | The ASCALON Framework: Finsler-Geometric Metrics for Symplectic Trajectory Purity and Phase-Drift Detection in Biological Systems | [DOI: 10.5281/zenodo.21471228](https://doi.org/10.5281/zenodo.21471228) | 2026-07-21 |
+| 2 | **Preprint** | LifeNode Theory v4.0: The Geometry of Biological Processes | [DOI: 10.5281/zenodo.2121990](https://doi.org/10.5281/zenodo.2121990) | 2026-07-06 |
+| 3 | **Patent** | Hydrogel Phase Membrane (HMF) | [DOI: 10.5281/zenodo.21001729](https://doi.org/10.5281/zenodo.21001729) | 2026-06-28 |
+| 4 | **Patent** | Tonic Technologies: Science, Engineering, and Applications in Living Systems | [DOI: 10.5281/zenodo.20909213](https://doi.org/10.5281/zenodo.20909213) | 2026-06-26 |
+| 5 | **Preprint** | Multiperspectivity V2.0: Topological Obstructions, Sheaf Cohomology, and the Geometry of Interference | [DOI: 10.5281/zenodo.20851251](https://doi.org/10.5281/zenodo.20851251) | 2026-06-25 |
+| 6 | **Patent** | UNIT 02 - Bio-Hybrid Resonance Engine & Meld Integrator | [DOI: 10.5281/zenodo.20730315](https://doi.org/10.5281/zenodo.20730315) | 2026-06-17 |
+| 7 | **Publication** | Tokio_Drift_'44 (Vol. 1) – Memetic Payload and Cognitive Phase-Drift Simulation | [DOI: 10.5281/zenodo.20716388](https://doi.org/10.5281/zenodo.20716388) | 2026-06-16 |
+| 8 | **Preprint** | On Consciousness as a Geometric Condensate in Processual Fields | [DOI: 10.5281/zenodo.20621097](https://doi.org/10.5281/zenodo.20621097) | 2026-06-10 |
+| 9 | **Preprint** | Symplectic Trajectory Reconstruction: The Mathematics of BIOS-Coherence and Phase-Based Diagnostics | [DOI: 10.5281/zenodo.19811561](https://doi.org/10.5281/zenodo.19811561) | 2026-04-27 |
+| 10 | **Dataset** | Stabilization of the Bio-Digital Transduction Process | [DOI: 10.5281/zenodo.18401117](https://doi.org/10.5281/zenodo.18401117) | 2026-01-28 |
+| 11 | **Thesis** | 3I/ATLAS - HYPOTHESIS | [DOI: 10.5281/zenodo.18366449](https://doi.org/10.5281/zenodo.18366449) | 2026-01-25 |
+| 12 | **Book** | The LifeNode Project Bible: A Compendium of All Knowledge | [DOI: 10.5281/zenodo.18348984](https://doi.org/10.5281/zenodo.18348984) | 2026-01-23 |
+| 13 | **Project Milestone** | LifeNode Q-Core: Market Volatility Resilience & Capital Preservation Report (BTC-USD 2024-2026) | [DOI: 10.5281/zenodo.18327841](https://doi.org/10.5281/zenodo.18327841) | 2026-01-21 |
+| 14 | **Physical Object** | Proof of Existence — LifeNode Eden (Node 0) | [DOI: 10.5281/zenodo.18304107](https://doi.org/10.5281/zenodo.18304107) | 2026-01-19 |
+| 15 | **Lesson** | LifeNode Practical Course | [DOI: 10.5281/zenodo.18171792](https://doi.org/10.5281/zenodo.18171792) | 2026-01-07 |
+| 16 | **Book** | LifeNode Theory: Dlaczego Pomidory rosną tak a nie inaczej? | [DOI: 10.5281/zenodo.18155415](https://doi.org/10.5281/zenodo.18155415) | 2026-01-05 |
+| 17 | **Technical Note** | LifeNode_2.0: LifeNode 2.1 — Node Ω / Complete System Integration | [DOI: 10.5281/zenodo.17494868](https://doi.org/10.5281/zenodo.17494868) | 2025-10-31 |
 
 **Summary Statistics:**
-- 📄 **Preprints:** 4
+- 📄 **Preprints:** 5
 - 📖 **Books:** 2  
 - ️🧐 **Patents:** 3
 - 📊 **Datasets:** 1
@@ -183,4 +184,4 @@ If you want to see exactly what lies under the hood (equations, specifications, 
 - 📰 **Publications:** 1
 - 📎 **Misc:** 4
 
-**Total: 16 records** | **Latest:** June 7, 2026 | **Oldest:** October 31, 2025
+**Total: 17 records** | **Latest:** June 21, 2026 | **Oldest:** October 31, 2025
