@@ -126,6 +126,11 @@ You don't have to read it all at once. Choose your path:
 
 *   **[Cosmic_BioEngineering](https://github.com/LifeNode777/Cosmic_BioEngineering)** – How to link the rhythm of Earth’s mycelium with the geometry and dynamics of the solar system.
 
+### 🛠️ Path 5: I want to build it (Phase 1 Engineering)
+
+- [PHASE_1](https://github.com/LifeNode777/PHASE_1) — the engineering treaty of the whole project. Seven independently falsifiable modules (A–G): from Zero-Build mathematical validation you can run on a laptop today, through the NV-diamond Q-Core and the *Physarum* bio-hybrid interface, up to the ASCALON phase-purity filter and Living Walls space habitat. No cost estimates, no product promises — material stacks, binary failure conditions and the critical path (G → A/B → C → D → E → F). If the modules pass falsification, phase-coherent technology becomes an engineering fact. If they fail — we publish that too.
+- **Start here:** [MODULE_G_Zero-Build](https://github.com/LifeNode777/PHASE_1/tree/main/MODULE_G_Zero-Build) — the only module that can kill the entire theory for the price of a few dozen laptop-hours. Exactly why it stands first in line.
+
 ---
 
 ## 🪵 My Rules of the Game
