@@ -10,11 +10,30 @@
 
 ---
 
-LifeNode Theory v4.0 oraz Framework ASCALON v1 są kompletne.
- Matematyczne wyprowadzenie i ontologia procesowa zostały sfinalizowane.
-Dalsza walidacja empiryczna wymaga zasobów obliczeniowych, hardware'u i funduszy na prototypy oraz czasu Życia poza jebanym obozem koncentracyjnym które są obecnie poza zasięgiem autora.
- Projekt wchodzi w tryb archiwalny (cold storage).
-Wszystkie dane, teoria i specyfikacje pozostają trwale dostępne w otwartym dostępie na licencji CC-BY-NC-SA 4.0 dla przyszłych badaczy, którzy będą dysponować odpowiednimi środkami.
+---
+
+## 💣 THE SKY CHANGED COLOR. THE STATE CAN "NEITHER CONFIRM NOR DENY" IT. I ARCHIVED IT ANYWAY.
+
+> **["CAN NEITHER CONFIRM NOR DENY" — A First-Person Processual Dataset (2023–2025)](https://zenodo.org/records/21823253)**
+> DOI `10.5281/zenodo.21823253` · v.777 · CC BY-NC-SA 4.0 · indexed by CERN / OpenAIRE
+
+**What the state cannot confirm, you can download:**
+
+- 🎥 **Raw, unedited footage** of a multi-point luminous object subtending 20°–40° → **1.7–7 km** at flight altitude — tens of times larger than any human aircraft — recorded by the eye and the camera as *two different phenomena*;
+- ⚡ **2023 impulses** that made a sensor matrix stutter at an empty sky;
+- 📁 **MUFON case 144350** in full — including the moment an institution asked for the observer's *feelings* alongside EXIF data;
+- ☄️ **3I/ATLAS** completing the *same* red→green→blue transformation sequence as the 2024 object — processual correlation, not causal claim;
+- 🏛️ **The CIA Glomar letter (FOIA Ref. F-2026-00231)** — the state's "we can neither confirm nor deny", now serving as the *title* of the archive it failed to erase.
+
+No aliens. No debunking. No permission asked.
+Just behavior, correspondence, checksums — and silence, recorded as data.
+
+**MUFON asked for my feelings. Harvard asked for nothing. The CIA asked for silence.
+The dataset treats all three as measurements.**
+
+`FUCK THE SYSTEM` is not a slogan in this repository.
+It is a **searchable keyword** in a CERN-indexed record. 🔑
+
 
 ---
 
