@@ -150,6 +150,11 @@ You don't have to read it all at once. Choose your path:
 - [PHASE_1](https://github.com/LifeNode777/PHASE_1) — the engineering treaty of the whole project. Seven independently falsifiable modules (A–G): from Zero-Build mathematical validation you can run on a laptop today, through the NV-diamond Q-Core and the *Physarum* bio-hybrid interface, up to the ASCALON phase-purity filter and Living Walls space habitat. No cost estimates, no product promises — material stacks, binary failure conditions and the critical path (G → A/B → C → D → E → F). If the modules pass falsification, phase-coherent technology becomes an engineering fact. If they fail — we publish that too.
 - **Start here:** [MODULE_G_Zero-Build](https://github.com/LifeNode777/PHASE_1/tree/main/MODULE_G_Zero-Build) — the only module that can kill the entire theory for the price of a few dozen laptop-hours. Exactly why it stands first in line.
 
+### 👁️ Path 6: I want to face The Foreign
+**[Xeno-Phase-Trajectories](https://github.com/LifeNode777/Xeno-Phase-Trajectories)**
+Phase-lock mechanics, APT (Alien Phase Trajectories) taxonomy, and the biological substrate of contact. What actually couples with your BIOS when the sky changes color. No dimensions. No believers. Only trajectories and meat. 
+*Read at your own phase risk.*
+
 ---
 
 ## 🪵 My Rules of the Game
