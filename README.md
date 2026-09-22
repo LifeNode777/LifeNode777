@@ -41,7 +41,6 @@ It is a **searchable keyword** in a CERN-indexed record. 🔑
 # 🌱 LifeNode
 
 ![introduction to Project LifeNode 👁️](FROM_CHAOS_TO_STARS.png)
-![Symbiocene ☀️](Symbiocene.png)
 
 > *"Reality is not a photograph. It’s a movie. Stop measuring states, start listening to phases."*
 
