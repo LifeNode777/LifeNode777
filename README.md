@@ -51,7 +51,7 @@ The LifeNode project wasn't born in a sterile lab, at a desk backed by an academ
 
  **"Fuck, this can't be how it is."**
 
- ![LifeNode Wins - Flawless Creation 🙃](Gemini_Generated_Image_wnm2r6wnm2r6wnm2.png)
+ ![LifeNode Wins - Flawless Creation 🙃](LifeNode_vs_System.png)
 
  It started the moment you look at the world around you — artificial, detached from reality, full of dead data and living-dead pseudo-humans vegetating in a hellish loop of "work/home/TV/sleep" — and you decide it's time to shove a shovel into the dirt to build something real and normal in the middle of all this absurdity. 
 Right there, in a permaculture garden (Eden), watching tomatoes grow in a hand-crafted permaculture micro-ecosystem—after months of terraforming a flat 2D plot into geo/hydro/bio 3D structures — a fundamental question arose:
