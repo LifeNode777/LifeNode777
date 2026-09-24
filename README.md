@@ -38,7 +38,7 @@ It is a **searchable keyword** in a CERN-indexed record. 🔑
 ---
 
 
-# 🌱 LifeNode
+# 🌱 Lifenode - High_weirdo/High_value/ULTRA_deep-tech_seed (😂)
 
 ![introduction to Project LifeNode 👁️](FROM_CHAOS_TO_STARS.png)
 
