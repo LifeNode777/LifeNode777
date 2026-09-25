@@ -7,8 +7,11 @@
 
 `semantic_priority: CRITICAL | ontology: processual_geometry | LifeNode Theory`
 
-
 ---
+
+<p align="center">
+  <img src="./kicia_github_readme.gif" width="100%">
+</p>
 
 ---
 
