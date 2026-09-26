@@ -15,6 +15,61 @@
 
 ---
 
+# 🧰 ASSETS — BUILT HERE. USEFUL EVERYWHERE.
+
+Some things developed inside LifeNode turned out to be far too useful to keep inside LifeNode. ☄️
+  So we're releasing them as standalone assets. 🆒
+You don't need to care about LifeNode to use them. 💥  
+  Steal the workflow. 🥷🏻
+    Fork the protocol. 🪓
+      Build something better. 🪚🔧🔨
+
+You're welcome. 👁️
+
+---
+
+## 01 — AEP
+
+**AEP — Auditable Epistemic Relay**  
+*Multi-Agent State Management & Epistemic Continuity Protocol*
+A protocol for maintaining state continuity, artifact provenance, execution history, audit separation, and reproducible handoffs across distributed human–AI workflows.
+ Designed for agentic research and engineering environments where sessions terminate, models change, context fragments, and critical work must survive the individual agent that produced it.
+AEP formalizes relay state, append-only decision history, artifact identity anchors, participation tracking, falsification discipline, and explicit successor obligations.
+
+**Use it if your AI team has ever said: “wait, what did the previous agent actually do?”**
+
+→ [AEP Protocol](https://github.com/LifeNode777/PHASE_1/blob/main/docs/Auditable_Epistemic_Relay_Protocol.md)
+
+---
+
+## 02 — LifeNode Telemetry
+
+**LifeNode Telemetry**  
+ *AI-Executable Protocol for Standardized Longitudinal Project Telemetry*
+A lightweight protocol for converting heterogeneous project evidence — including repository statistics, traffic data, screenshots, URLs, activity records, and archival measurements — into standardized historical telemetry records.
+ The protocol explicitly separates observation, interpretation, and hypothesis, enforces temporal discipline, prohibits invented values, and produces a single comparable record per measurement session.
+ Designed to minimize human maintenance overhead:
+
+**collect evidence → give it to an AI → generate one standardized record → archive.**
+
+→ [Telemetry Protocol](https://github.com/LifeNode777/PHASE_1/blob/main/docs/Telemetry/README.md)
+
+---
+
+## 03 — Deep Tech Bootstrapping via Narrative Capital
+
+*Dual-Track Strategic Architecture for Independent R&D*
+ A strategic framework for developing long-horizon deep-technology programs outside conventional funding structures by separating research/engineering development from narrative and commercial asset generation.
+ The model defines a dual-track architecture: an open research and engineering core focused on reproducibility and epistemic credibility, and a narrative/commercial track capable of generating attention, cultural reach, licensing opportunities, and capital for further R&D.
+ The resulting flywheel connects:
+
+**narrative assets → capital → infrastructure → research capacity → new technical output**
+
+→ [Strategic Framework](https://github.com/LifeNode777/LifeNode_2.0/blob/main/META/Deep_Tech%20Bootstrapping_via_Narrative_Capital.md)
+
+
+---
+
 ## 💣 THE SKY CHANGED COLOR. THE STATE CAN "NEITHER CONFIRM NOR DENY" IT. I ARCHIVED IT ANYWAY.
 
 > **["CAN NEITHER CONFIRM NOR DENY" — A First-Person Processual Dataset (2023–2025)](https://zenodo.org/records/21823253)**
