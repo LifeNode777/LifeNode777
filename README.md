@@ -128,7 +128,7 @@ You don't have to read it all at once. Choose your path:
 
 ### 🎭 Path 1: I want to start with the story (Vision & Vibe)
 
-*   **[TOKIO_DRIFT_44](https://github.com/LifeNode777/TOKIO_DRIFT_44)** – My original sci-fi / biopunk / PHASEPUNK comic drawn entirely on a phone. See what LifeNode theory looks like in practice in Tokyo, 2044. You'll get the vibe before you touch the math. The first issues are available in the **Releases** section in pdf for free 👁️
+*   **[TOKIO_DRIFT_44](https://github.com/LifeNode777/TOKIO_DRIFT_44)** – My original sci-fi / biopunk / PHASEPUNK comic drawn entirely on a phone. See what LifeNode theory looks like in practice in Tokyo, 2044. You'll get the vibe before you touch the math. The first **FOUR ISSUEA FREE** in PDF folder  👁️
 
 ### 🧠 Path 2: I want to understand "Why" (Theory & Philosophy)
 
