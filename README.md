@@ -15,6 +15,15 @@
 
 ---
 
+29.09.2026
+![L1_analitical_calibration_peregrine_metrics_👁️](L1_analitical_calibration_peregrine_metrics.png)
+MODULE H — THE INSTRUMENT PASSED
+
+Module H now has a calibrated measurement core: it recognizes a known analytical signal and rejects the same signal after its phase has been deliberately randomized. η = 1.0000000000 → PASS. η = 0.0102088868 → NULL REJECTED. This is not yet a claim about new physics. It is something more fundamental: the measurement apparatus has passed its first gate.
+🧿
+
+---
+
 # 🧰 ASSETS — BUILT HERE. USEFUL EVERYWHERE.
 
 Some things developed inside LifeNode turned out to be far too useful to keep inside LifeNode. ☄️
