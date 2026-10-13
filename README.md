@@ -15,12 +15,10 @@
 
 ---
 
-29.09.2026
-![L1_analitical_calibration_peregrine_metrics_👁️](L1_analitical_calibration_peregrine_metrics.png)
-MODULE H — THE INSTRUMENT PASSED
+October 13 2026
+ published the concept outline for **"VoidProbe"** the trajectory-geometry fingerprinting pipeline driving the Xeno-Phase-Trajectories (XPT) R&D. This roadmap defines the instrument's operating envelope, detailing the rigorous adversarial and stability stress-tests required to map exactly what it detects and what remains structurally invisible. We do not hunt the Foreign; we first make sure the knife is sharp enough to cut only what it claims to cut. 👁️
 
-Module H now has a calibrated measurement core: it recognizes a known analytical signal and rejects the same signal after its phase has been deliberately randomized. η = 1.0000000000 → PASS. η = 0.0102088868 → NULL REJECTED. This is not yet a claim about new physics. It is something more fundamental: the measurement apparatus has passed its first gate.
-🧿
+![VoidProbe v0.9 — Trajectory-Geometry Fingerprinting Instrument](https://raw.githubusercontent.com/LifeNode777/Xeno-Phase-Trajectories/main/img/VoidProbe_v09.png)
 
 ---
 
